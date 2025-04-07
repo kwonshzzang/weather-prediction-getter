@@ -14,7 +14,7 @@ server:
 weather-open-api:
   service-key: 6uAMfC1RDTLntHVOUFCdZDwYeVhaIxKrKIw+iOVyFaHTp9Tfs/RTi8Ia4o1K+ScQ5fOZQFuqcxSD7dgRFinFNA==
   base-url: http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtFcst
-  data-transfer-url: http://localhost:9090/weather/prediction
+  data-transfer-url: http://localhost:29002/weather/prediction
   num-of-rows: 1000
   page-no: 1
   data-type: JSON
